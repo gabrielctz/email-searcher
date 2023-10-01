@@ -16,7 +16,7 @@ Ce script en **Javascript** vous permettra de voir si une **adresse mail** ou un
 - [NodeJS](https://nodejs.org/en/download)
 
 ```
-git clone https://github.com/gabrielctz/speech-to-text/.git
+git clone https://github.com/gabrielctz/email-searcher/.git
 cd email-searcher
 npm install prompt-sync
 ```
